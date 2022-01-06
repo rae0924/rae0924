@@ -1,4 +1,8 @@
-### Hi there 👋
+
+- About me: a CS undergrad who likes to program software for fun. 
+- How to reach me: message me on my [LinkedIn](http://www.linkedin.com/in/ragib-arnab).
+
+
 
 <!--
 **rae0924/rae0924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
